@@ -1,7 +1,3 @@
-Here's a `README.md` for your Go program:
-
----
-
 # Media File Filter & Deduplicator
 
 This Go program scans a specified folder for media files (e.g., images and videos), removes duplicates based on file content (using SHA-256 hashing), and moves the unique files into a subfolder called `filtered_files`.
