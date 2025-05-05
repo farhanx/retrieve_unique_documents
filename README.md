@@ -62,7 +62,3 @@ Moved 2 to filtered_files: video1.mp4
 ## License
 
 This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Would you like a `.gitignore` and `go.mod` file to go along with this?
